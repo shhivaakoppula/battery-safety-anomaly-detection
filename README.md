@@ -1,1 +1,1 @@
-# battery-safety-anomaly-detection
+# Battery Safety Anomaly Detection
